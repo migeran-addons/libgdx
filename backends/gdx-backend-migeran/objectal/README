@@ -1,0 +1,15 @@
+ObjectAL binding for Migeran
+----------------------------
+
+Unpack the ObjectAL sources to this directory 
+(the result should be a directory named ObjectAL).
+
+Generate bindings from Eclipse by right clicking 
+on the objectal.natjgen file and selecting the
+Migeran > Generate Bindings option.
+
+TODO: The generated inline method stubs are not compiled 
+as part of the libgdx build process, and not distributed
+with the libgdx native libraries. This is not causing a problem
+because these methods are not used by the backend, but it should be 
+fixed anyways.

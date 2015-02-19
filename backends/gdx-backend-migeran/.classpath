@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx"/>
+	<classpathentry kind="var" path="MIGERAN_SDK_DIR/main/java/migeran-ios.jar" sourcepath="/MIGERAN_SDK_DIR/main/java/migeran-ios-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
